@@ -1,3 +1,11 @@
+# Webpack + react + ui library example
+A modified version for building react ui library
+
+
+<br>
+<br>
+<br>
+
 # React Webpack Typescript Starter
 > Minimal starter with hot module replacement (HMR) for rapid development.
 
